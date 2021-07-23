@@ -1,0 +1,2 @@
+# SpringElasticSearchService
+poc for sprindata
